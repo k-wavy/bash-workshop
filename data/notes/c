@@ -1,0 +1,1 @@
+montage -mode concatenate -tile 2x2 dir3/tiles_0* rejoined.gif

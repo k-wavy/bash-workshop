@@ -1,0 +1,1 @@
+convert dir1/8_9_1.jpg -crop 256x256+0+256 dir2/1_0.jpg

@@ -1,0 +1,1 @@
+convert dir1/8_9_1.jpg -crop 256x256  +repage  +adjoin  dir3/tiles_%02d.gif
